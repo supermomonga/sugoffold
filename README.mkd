@@ -1,0 +1,5 @@
+## Sugoffold
+
+Sugoffold is the すごい scaffolding tool.
+
+_This project is WIP_
